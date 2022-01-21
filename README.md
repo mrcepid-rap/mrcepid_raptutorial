@@ -33,7 +33,6 @@ dx download "/genetics_of_miscarriage/command_files/pheno_extraction/extract_phe
 - there are multiple ways of doing this, a way "native" to the script would be to create simple text files with the field numbers for UKB and one file per line, read into python for example as list (**mylist** in code below) and then do smth like (after functions under point 4 in notebook have been defined)
 
 ```{python dummychunk2, echo = TRUE, eval = FALSE}
-%%bash
 print(fields_for_field_id(mylist)) # test fct
 ```
 
