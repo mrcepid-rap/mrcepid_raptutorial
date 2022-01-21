@@ -51,7 +51,3 @@ print(fields_for_field_id(mylist)) # test fct
 %%bash
 dx upload output.tsv --dest your_project/.../output.tsv
 ```
-
-
-- 
-
