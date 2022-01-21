@@ -2,7 +2,7 @@
 
 - this is a quick tutorial building on work by the DNANexus Team on how to extract UKB phenotype data into a txt-like file
 
-- please note that this is just a rough guide and there is ABSOLUTELY NO WARRANTY ;) 
+- please note that this is just a rough guide and there is ABSOLUTELY NO WARRANTY
 
 
 ## 1. Launch Jupyterlab app
