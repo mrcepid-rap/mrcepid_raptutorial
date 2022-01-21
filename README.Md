@@ -1,19 +1,3 @@
----
-title: "README"
-author: "Alexander Mörseburg"
-date: "21/01/2022"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
----
-output:
-  html_document: default
-  pdf_document: default
----
 # UKB RAP data extraction tutorial
 
 - this is a quick tutorial building on work by the DNANexus Team on how to extract UKB phenotype data into a txt-like file
