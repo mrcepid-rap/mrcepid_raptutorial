@@ -1,6 +1,6 @@
 # UKB RAP data extraction tutorial
 
-- this is a quick tutorial building on work by the DNANexus Team on how to extract UKB phenotype data into a txt-like file created by Alexander Mörseburg (IMS-MRL) on 22/01/2022
+- this is a quick tutorial building on work by the DNANexus Team on how to extract UKB phenotype data into a txt-like file created by Alexander Mörseburg (IMS-MRL) on 21/01/2022
 
 - please note that this is just a rough guide and there is ABSOLUTELY NO WARRANTY
 
